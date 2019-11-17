@@ -1,2 +1,2 @@
 # GameWeb
-This projects is a game UI 
+This project is a game UI 
